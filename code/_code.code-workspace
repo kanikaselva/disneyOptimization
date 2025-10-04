@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.terminal.activateEnvInCurrentTerminal": true,
+		"editor.fontSize": 13.5,
+		"terminal.integrated.fontSize": 13.5
+	}
+}
