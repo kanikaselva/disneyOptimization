@@ -1,6 +1,6 @@
 Ride,Speed,Music,Show,Light,Water,3D
-Dinosaur,Low,Med,High,Med,Low,Low
-Expedition Everest,High,Low,Med,Med,Low,Low
-Avatar: Flight of Passage,Medium,High,High,High,Med,High
-Kilimanjaro Safaris,Low,Low,High,Low,Med,Low
-Navi River Journey,Low,High,High,High,High,Low
+DINOSAUR,1,0,1,0,1,0
+Expedition Everest - Legend of the Forbidden Mountain,0,1,0,1,0,1
+Avatar Flight of Passage,1,1,0,0,1,0
+Kilimanjaro Safaris,1,0,0,0,1,1
+Na'vi River Journey,1,0,1,1,0,0
